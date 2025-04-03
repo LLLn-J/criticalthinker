@@ -2,6 +2,9 @@
 
 A Chrome extension that adds a floating window to Medium.com articles, displaying AI-generated critical thinking questions about the article content.
 
+<img width="456" alt="Image" src="https://github.com/user-attachments/assets/34c69e09-cc4e-43c1-b637-d864d8533da5" />
+
+
 ## Features
 
 - Floating brain icon (🧠) button in the bottom right corner of Medium articles
