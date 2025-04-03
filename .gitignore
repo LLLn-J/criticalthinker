@@ -27,4 +27,15 @@ dist-ssr
 src/apiKey.ts
 .env
 .env.local
-.env.development 
+.env.development
+.env.production
+.env.test
+.env*.local
+*.pem
+key.json
+credentials.json
+*secrets*
+
+# Packed extension files
+*.crx
+dist.pem 
