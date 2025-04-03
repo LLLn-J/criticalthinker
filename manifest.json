@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Critical Thinker for Medium",
+  "short_name": "Critical Thinker", 
   "version": "1.0.0",
   "description": "Generate critical thinking questions for Medium articles",
   "permissions": ["activeTab", "storage"],
